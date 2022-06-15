@@ -11,7 +11,7 @@ int main() {
 	srand(time(NULL));
 
 	
-
+	cout << "How are you?";
 
 	
 	return 0;
